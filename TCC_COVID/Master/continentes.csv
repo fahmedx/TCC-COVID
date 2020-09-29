@@ -1,8 +1,8 @@
 ,cod,continent
-0,1,Asia
-1,2,Europe
+0,4,North America
+1,1,Asia
 2,0,Africa
-3,4,North America
+3,2,Europe
 4,6,South America
 5,5,Oceania
 6,3,No Continent
